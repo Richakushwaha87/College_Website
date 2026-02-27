@@ -1,0 +1,13 @@
+.text-justify
+{
+    text-align: justify;
+}
+
+.a
+{
+    color:white;
+}
+
+.row.text-white a {
+    color: #fff;
+}
